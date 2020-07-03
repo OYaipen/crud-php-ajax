@@ -4,7 +4,7 @@ class Userfunction{
 
 	private $DBHOST='localhost';
 	private $DBUSER='root';
-	private $DBPASS='kaseocan99';
+	private $DBPASS='';
 	private $DBNAME='ajax';
 	public $con;
 

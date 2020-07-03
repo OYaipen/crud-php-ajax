@@ -100,9 +100,6 @@
             </div>
           </div>
           <div class="row mt-5" id="tbl_rec">
-            <div class="embed-responsive embed-responsive-16by9">
-              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-tJYN-eG1zk" allowfullscreen></iframe>
-            </div>
 
           </div>
         </div>
